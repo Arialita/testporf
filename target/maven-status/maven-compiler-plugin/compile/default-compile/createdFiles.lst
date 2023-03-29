@@ -24,10 +24,12 @@ com\miportfolio\ArgPro\repository\RRed.class
 com\miportfolio\ArgPro\controller\CExperiencia.class
 com\miportfolio\ArgPro\repository\RSobremi.class
 com\miportfolio\ArgPro\entity\Educacion.class
+com\miportfolio\ArgPro\WebConfig.class
 com\miportfolio\ArgPro\entity\Habilidad.class
 com\miportfolio\ArgPro\service\SExperiencia.class
 com\miportfolio\ArgPro\entity\Datopersonal.class
 com\miportfolio\ArgPro\repository\RExperiencia.class
+com\miportfolio\ArgPro\ArgProApplication$1.class
 com\miportfolio\ArgPro\controller\CCurso.class
 com\miportfolio\ArgPro\repository\RCurso.class
 com\miportfolio\ArgPro\repository\RPersona.class
